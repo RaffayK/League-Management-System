@@ -4,7 +4,7 @@
 
 ### General
 
-The Club Management System is a .NET-based software designed to manage various activities of a cricket club, including member registration, batch registration, and more. This system facilitates normal users to enroll for membership, log in to their accounts, and manage their activities efficiently. It automates daily operations, streamlining club functionality for ease of use.
+A club management system project that provides and manages various club activities such as member registration, registration for various regular and vacation batches and more. The sports club management system software is a .net built system that manages the entire club activities and provides respective functionality for various types of visitors. This system is built with respect to managing a cricket club. It allows normal users to avail for club membership, log in to their respective account . The sports club management system is built keeping in mind various various daily activities of a cricket club and the software automates all these club functionality for easy operation of the club.
 
 ## Chapter 02: System Analysis
 
